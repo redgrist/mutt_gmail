@@ -12,3 +12,4 @@ set smtp_url = "smtp://user@smtp.gmail.com:587/"
 set smtp_pass = "password"
 set move = no
 set imap_keepalive = 900
+set ssl_force_tls = yes
