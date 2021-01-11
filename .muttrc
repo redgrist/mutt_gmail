@@ -13,4 +13,4 @@ set smtp_pass = "password"
 set move = no
 set imap_keepalive = 900
 set ssl_force_tls = yes
-set ssl_starttls=yes
+set ssl_starttls= yes
